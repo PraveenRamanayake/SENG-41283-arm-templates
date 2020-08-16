@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "Redis_praveen_name": {
+            "value": null
+        },
+        "sites_praveenapi1_name": {
+            "value": null
+        },
+        "sites_praveenapi3_name": {
+            "value": null
+        },
+        "serverfarms_praveen_name": {
+            "value": null
+        },
+        "sites_praveenfunction_name": {
+            "value": null
+        },
+        "components_monitor_name": {
+            "value": null
+        },
+        "servers_praveen_db_name": {
+            "value": null
+        },
+        "frontdoors_praveenfrontdoor_name": {
+            "value": null
+        },
+        "storageAccounts_praveenfunct_name": {
+            "value": null
+        },
+        "serverfarms_ASP_webassignment_8318_name": {
+            "value": null
+        },
+        "frontdoorwebapplicationfirewallpolicies_policy_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "dashboards_64f88250_2b81_42fe_b1a6_26276a807026_dashboard_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___monitor_name": {
+            "value": null
+        }
+    }
+}
